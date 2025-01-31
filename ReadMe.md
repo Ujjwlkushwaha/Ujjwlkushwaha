@@ -1,4 +1,4 @@
-# 💫 Ujjwal | Full-Stack Developer | AI & DSA Enthusiast
+# 💫 Ujjwl | Full-Stack Developer | AI & DSA Enthusiast
 💡 Turning ideas into reality with code | 🔥 Building innovative web experiences | 🎯 Cracking DSA & FAANG prep<br>
 ## 👨‍💻 About Me<br>
 🔹 Full-Stack Developer | MERN Stack | Python<br>🔹 Passionate about AI, Web Animations & Performance Optimization<br>🔹 Solving Data Structures & Algorithms to crack FAANG interviews<br>🔹 Open to collaborations & learning new technologies
